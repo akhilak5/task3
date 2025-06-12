@@ -10,20 +10,20 @@ This project is a simple Node.js + Express REST API that allows you to perform b
 
 ##  Getting Started
 
-1. Clone the Repository
-git clone https://github.com/yourusername/task-3.git
+1. Clone the Repository ->
+git clone https://github.com/yourusername/task-3.git ->
 cd task-3
- 2. Install Dependencies
+ 2. Install Dependencies ->
 npm install
-3. Start the Server
-npm start
+3. Start the Server ->
+npm start ->
 Server will start at:
 ---http://localhost:3000
 
 ## API Endpoints
-**GET All Books
-Endpoint: GET /books
-Purpose: Returns a list of all books.
+-GET All Books
+-Endpoint: GET /books
+-Purpose: Returns a list of all books.
 --Screenshot:
 ![GET](images/screenshot-get.png)
 
