@@ -10,12 +10,12 @@ This project is a simple Node.js + Express REST API that allows you to perform b
 
 ##  Getting Started
 
-**1. Clone the Repository
+1. Clone the Repository
 git clone https://github.com/yourusername/task-3.git
 cd task-3
-** 2. Install Dependencies
+ 2. Install Dependencies
 npm install
-** 3. Start the Server
+3. Start the Server
 npm start
 Server will start at:
 ---http://localhost:3000
