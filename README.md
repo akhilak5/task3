@@ -58,8 +58,8 @@ Server will start at:
 
 
 ## Notes
-Data is stored temporarily in memory and will be lost on server restart.
-Make sure to use a valid book ID (from GET /books) for PUT and DELETE requests.
+- Data is stored temporarily in memory and will be lost on server restart.
+- Make sure to use a valid book ID (from GET /books) for PUT and DELETE requests.
 
 ## Author
 kongari Akhila
