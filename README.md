@@ -9,8 +9,7 @@ This project is a simple Node.js + Express REST API that allows you to perform b
 - Postman (for API testing)
 
 ##  Getting Started
-
-1. Clone the Repository ->
+ 1. Clone the Repository ->
 git clone https://github.com/yourusername/task-3.git ->
 cd task-3
  2. Install Dependencies ->
@@ -22,8 +21,8 @@ Server will start at:
 
 ## API Endpoints
 ### GET All Books
-1.Endpoint: GET /books
-2.Purpose: Returns a list of all books.
+- Endpoint: GET /books
+- Purpose: Returns a list of all books.
 ### Screenshot:
 ![GET](images/screenshot-get.png)
 
