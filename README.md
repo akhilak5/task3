@@ -34,7 +34,7 @@ Server will start at:
   "title": "kongari akhila",
   "author": "akhila"
   }
-
+  - Screenshot:
 ![POSt](images/screenshot-post.png)
 
 
@@ -44,8 +44,8 @@ Server will start at:
 {
   "title": "akhila",
   "author": "akki"
-
-}- Screenshot:
+}
+- Screenshot:
 ![PUT](images/screenshot-put.png)
 
 
