@@ -23,36 +23,36 @@ Server will start at:
 ### GET All Books
 - Endpoint: GET /books
 - Purpose: Returns a list of all books.
-### Screenshot:
+- Screenshot:
 ![GET](images/screenshot-get.png)
 
 
  ### POST a New Book
-1.Endpoint: POST /books
-2.Body:json
+- Endpoint: POST /books
+- Body:json
 {
   "title": "kongari akhila",
   "author": "akhila"
 }
-### Screenshot:
+- Screenshot:
 ![POSt](images/screenshot-post.png)
 
 
 ### PUT (Update) a Book
-1.Endpoint: PUT /books/:id
-2.Body:json
+- Endpoint: PUT /books/:id
+- Body:json
 {
   "title": "akhila",
   "author": "akki"
 }
-### Screenshot:
+- Screenshot:
 ![PUT](images/screenshot-put.png)
 
 
 ## DELETE a Book
-1.Endpoint: DELETE /books/:id
-2.Purpose: Deletes a book with the specified ID.
-### Screenshot:
+- Endpoint: DELETE /books/:id
+- Purpose: Deletes a book with the specified ID.
+- Screenshot:
 ![DELETE](images/screenshot-delete.png)
 
 
