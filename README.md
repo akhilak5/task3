@@ -23,7 +23,7 @@ Server will start at:
 ### GET All Books
 - Endpoint: GET /books
 - Purpose: Returns a list of all books.
-- Screenshot:
+
 ![GET](images/screenshot-get.png)
 
 
@@ -34,7 +34,7 @@ Server will start at:
   "title": "kongari akhila",
   "author": "akhila"
 }
-- Screenshot:
+
 ![POSt](images/screenshot-post.png)
 
 
@@ -53,7 +53,7 @@ Server will start at:
 ## DELETE a Book
 - Endpoint: DELETE /books/:id
 - Purpose: Deletes a book with the specified ID.
-- Screenshot:
+
 ![DELETE](images/screenshot-delete.png)
 
 
