@@ -1,4 +1,4 @@
-# 📚 Simple Book CRUD API
+# Simple Book CRUD API
 
 This project is a simple Node.js + Express REST API that allows you to perform basic CRUD operations (Create, Read, Update, Delete) on books. The data is stored in memory (an array), so no database is used.
 
@@ -22,38 +22,38 @@ Server will start at:
 
 ## API Endpoints
 ### GET All Books
-### Endpoint: GET /books
-### Purpose: Returns a list of all books.
+1.Endpoint: GET /books
+2.Purpose: Returns a list of all books.
 ### Screenshot:
 ![GET](images/screenshot-get.png)
 
 
- **POST a New Book
-Endpoint: POST /books
-Body:json
+ ### POST a New Book
+1.Endpoint: POST /books
+2.Body:json
 {
   "title": "kongari akhila",
   "author": "akhila"
 }
---Screenshot:
+### Screenshot:
 ![POSt](images/screenshot-post.png)
 
 
-** PUT (Update) a Book
-Endpoint: PUT /books/:id
-Body:json
+### PUT (Update) a Book
+1.Endpoint: PUT /books/:id
+2.Body:json
 {
   "title": "akhila",
   "author": "akki"
 }
---Screenshot:
+### Screenshot:
 ![PUT](images/screenshot-put.png)
 
 
-** DELETE a Book
-Endpoint: DELETE /books/:id
-Purpose: Deletes a book with the specified ID.
-Screenshot:
+## DELETE a Book
+1.Endpoint: DELETE /books/:id
+2.Purpose: Deletes a book with the specified ID.
+### Screenshot:
 ![DELETE](images/screenshot-delete.png)
 
 
