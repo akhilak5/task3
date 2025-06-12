@@ -21,10 +21,10 @@ Server will start at:
 ---http://localhost:3000
 
 ## API Endpoints
-1.GET All Books
-2.Endpoint: GET /books
-3.Purpose: Returns a list of all books.
-4.Screenshot:
+### GET All Books
+### Endpoint: GET /books
+### Purpose: Returns a list of all books.
+### Screenshot:
 ![GET](images/screenshot-get.png)
 
 
